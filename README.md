@@ -5,7 +5,7 @@
 </h2>
 
 <div align="center";> 
- <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gabriel2klein&show_icons=true&theme=dark&title_color=5d25b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="gabriel2klein"/>
+ <img height="42%" src="https://github-readme-stats.vercel.app/api?username=gabriel2klein&show_icons=true&theme=dark&title_color=5d25b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="gabriel2klein"/>
  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel2klein&show_icons=true&theme=dark&title_color=6125b1&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact&card_width=480&langs_count=200" alt="gabriel2klein" />
 </div>
 
